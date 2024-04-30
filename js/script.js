@@ -30,8 +30,6 @@ sr.reveal('.aboutme-text #p2',{delay:420, origin: 'left'});
 
 sr.reveal('.aboutme-img',{delay:550, origin: 'left'});
 
-sr.reveal('.portfolio',{delay:250, origin: 'left'});
-
 sr.reveal('.contato-img',{delay:550, origin: 'left'});
 sr.reveal('.contato-text h1',{delay:250, origin: 'top'});
 sr.reveal('.contato-text p',{delay:420, origin: 'right'});
